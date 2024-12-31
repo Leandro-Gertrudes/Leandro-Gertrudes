@@ -1,6 +1,6 @@
 # Hi, I'm Leandro! 👋
 
-### Brazillian, 24 years old, Soccer fan and programming enthusiast. I'm open to new projects! / (PT) Brasileiro, 24 anos, amante do futebol e da programação. Estou aberto a novos projetos!
+### Brazillian, 24 years old, Soccer fan and programming enthusiast. I'm open to new projects! / (PT) Brasileiro, 24 anos, amante do futebol e da programação. Estou disponível para novos projetos!
 
 ## 🌱 Languages and Tools / Linguagens e Ferramentas
 
@@ -21,16 +21,15 @@
 
 Here are some of my projects: / Aqui estão alguns dos meus projetos:
 
-- 🎮 **[Game Script Battle](https://github.com/Leandro-Gertrudes/script-battle)**:  
-    Game Script Battle is a turn-based battle game where the player chooses a character class and uses strategy to defeat the opponent. </br>
-      **[Game Script Battle](https://github.com/Leandro-Gertrudes/script-battle)**:
-    Game Script Battle é um jogo de batalha por turnos, onde o jogador escolhe uma classe de personagem e utiliza estratégias para derrotar o oponente.  
+
+- 🎮 **[Game Script Battle](https://github.com/Leandro-Gertrudes/script-battle)**  
+    **-EN:** Game Script Battle is a turn-based battle game where the player chooses a character class and uses strategy to defeat the opponent.</br>
+    **-PT/BR:** Game Script Battle é um jogo de batalha por turnos, onde o jogador escolhe uma classe de personagem e utiliza estratégias para derrotar o oponente.
 
 
-- 💡 **[Coins ID](https://github.com/Leandro-Gertrudes/coins-id)**:  
-  Coins ID is a project developed for my final year project (TCC) in the Electronics Technician course. It consists of a device that detects the value of coins through a sound system, allowing visually impaired people to easily identify the coins.  
-  **[Coins ID](https://github.com/Leandro-Gertrudes/coins-id)**:  
-  Coins ID é um projeto desenvolvido no meu TCC do curso de Técnico em Eletroeletrônica. Ele consiste em um aparelho que detecta o valor das moedas através de um sistema de som, permitindo que deficientes visuais possam identificar facilmente as moedas.
+- 💡 **[Coins ID](https://github.com/Leandro-Gertrudes/coins-id)**  
+    **-EN:** Coins ID is a coin identification system for visually impaired individuals. The project was developed as part of my final year thesis (TCC) in the Electronics Technician course. </br>
+    **-PT/BR:** Coins ID é identificado de moedas para deficientes visuais, o projeto foi desenvolvido no meu TCC do curso de Técnico em Eletroeletrônica.
 
 ---
 
