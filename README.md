@@ -33,6 +33,9 @@ Here are some of my projects: / Aqui estão alguns dos meus projetos:
 ---
 
 ## 📫 How to reach me / Como me encontrar
+ <a href="https://www.instagram.com/leandro_gertrudes/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>   </br>
 - Email: leandropinheiro.pt@hotmail.com
 
 
