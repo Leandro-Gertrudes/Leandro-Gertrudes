@@ -1,6 +1,6 @@
 # Hi, I'm Leandro! 👋
 
-### Brazillian, 24 years old, Soccer fan and programming enthusiast. I'm open to new projects! / (PT) Brasileiro, 24 anos, amante do futebol e da programação. Estou disponível para novos projetos!
+### Brazillian, 25 years old, Soccer fan and programming enthusiast. I'm open to new projects! / (PT) Brasileiro, 25 anos, amante do futebol e da programação. Estou disponível para novos projetos!
 
 ## 🌱 Languages and Tools / Linguagens e Ferramentas
 
